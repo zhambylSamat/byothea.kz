@@ -1,0 +1,6 @@
+[0402/015845.686:ERROR:crash_report_database_win.cc(541)] GetFileAttributes C:\Users\Zhambyl\AppData\Local\Google\Chrome\User Data\Crashpad\reports: Отказано в доступе. (0x5)
+[0402/015845.689:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Канал был закрыт. (0x6D)
+[0402/015845.690:ERROR:crash_report_database_win.cc(541)] GetFileAttributes C:\Users\Zhambyl\AppData\Local\Google\Chrome\User Data\Crashpad\reports: Отказано в доступе. (0x5)
+[0410/223343.357:ERROR:crash_report_database_win.cc(541)] GetFileAttributes C:\Users\Zhambyl\AppData\Local\Google\Chrome\User Data\Crashpad\reports: Отказано в доступе. (0x5)
+[0410/223343.359:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Канал был закрыт. (0x6D)
+[0410/223343.360:ERROR:crash_report_database_win.cc(541)] GetFileAttributes C:\Users\Zhambyl\AppData\Local\Google\Chrome\User Data\Crashpad\reports: Отказано в доступе. (0x5)
